@@ -14,7 +14,6 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     private int score;
     //ÀŒ±‚µ‚Ä‚Ü[‚·
-    //ÀŒ±‚µ‚Ä‚Ü‚·2
 
     // Start is called before the first frame update
     void Start()
